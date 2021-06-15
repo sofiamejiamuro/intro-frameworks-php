@@ -1,0 +1,19 @@
+{
+  "name": "terranigma/curso-frameworks-php-platzi",
+  "description": "Proyecto basico",
+  "authors": [
+    {
+      "name": "Hector Vega",
+      "email": "linnk99@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    },
+    "files": [
+      "app/helpers.php"
+    ]
+  }
+}
